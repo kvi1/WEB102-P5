@@ -28,18 +28,9 @@ The following **required** functionality is completed:
   - Note: More attribute values on the ban list may result in a higher frequency of repeat results
 
 
-The following **optional** features are implemented:
-
-- [ ] Multiple types of attributes are clickable and can be added to the ban list
-- [ ] Users can see a stored history of their previously displayed  results from this session
-  - A dedicated section of the application displays all the previous images/attributes seen before
-  - Each time the API call button is clicked, the history updates with the newest API result
-
-
-
 ## Notes
 
 Faced some challenges with the API documentation as it was an interesting one where the path's URL is the image, so that was something new but fun to decipher.
 
+<img width="1466" alt="Screenshot 2025-03-29 at 12 58 20 PM" src="https://github.com/user-attachments/assets/df5929e3-744f-44ac-95ab-fb7e00e23586" />
 
-# WEB102-P5
